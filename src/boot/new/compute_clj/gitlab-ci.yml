@@ -1,3 +1,5 @@
+image: computesoftware/clojure:7e74388df6773cda3d4fce1443503aee23e7cd1d
+
 deploy:
   stage: deploy
   script:

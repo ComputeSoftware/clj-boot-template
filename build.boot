@@ -1,5 +1,5 @@
 (def project 'compute-clj/boot-template)
-(def version "0.1")
+(def version "0.2")
 
 (set-env! :resource-paths #{"src"}
           :dependencies '[[org.clojure/clojure "1.8.0"]
